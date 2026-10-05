@@ -1,6 +1,6 @@
 # User Stories
 
-Format: As a [type of user], I want [goal], so that [reason or benefit].
+Format: As a student, I want to make my final year project, so that i can grade on my csp600 project.
 
 1. As a ..., I want ..., so that ...
 2. As a ..., I want ..., so that ...
